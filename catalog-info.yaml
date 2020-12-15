@@ -4,8 +4,8 @@ metadata:
   name: cy-documented-component
   description: Cloudyuga  TechDocs documentation
   annotations:
-    backstage.io/techdocs-ref: dir:./
-#    backstage.io/techdocs-ref: 'github:https://github.com/praveenvp07/backstage/tree/master/plugins/techdocs-backend/examples/documented-component'
+    #backstage.io/techdocs-ref: dir:./
+    backstage.io/techdocs-ref: 'https://github.com/praveenvp07/backstagetest'
 spec:
   type: documentation
   lifecycle: production
