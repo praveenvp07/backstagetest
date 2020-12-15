@@ -7,7 +7,7 @@ metadata:
     backstage.io/techdocs-ref: dir:./
 #    backstage.io/techdocs-ref: 'github:https://github.com/praveenvp07/backstage/tree/master/plugins/techdocs-backend/examples/documented-component'
 spec:
-  type: service
+  type: documentation
   lifecycle: production
   owner: praveen@cloudyuga.guru
 
